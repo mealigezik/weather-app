@@ -104,30 +104,29 @@ h1 {
 
 .img img {
   width: 6rem;
-  background-color: rgba(25, 255, 255, 0.2);
+  background-color: rgba(255, 255, 255, 0.2);
   border-radius: 5rem;
   margin-left: 11px;
 }
 
 @media screen and (max-width: 475px) {
   .css {
-    /* min-width: 86vw; */
-    /* border: 2px solid red; */
     position: relative;
-    top: 9vh;
+    top: 1vh;
   }
   .container {
-
+/* background-color: red; */
+height: 70vh;
     }
 .durum,
 .sehir,
 .derece,
 .time {
   text-transform: capitalize;
-  padding-bottom: 1em;
+  padding-bottom: 0.1em;
   text-align: center;
   font-weight: 400;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 .derece{
     font-size: 6rem;
