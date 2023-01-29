@@ -1,6 +1,6 @@
 let url = 'https://api.openweathermap.org/data/2.5/'
 let key = 'e38336df8ed6ab9f4ba2f79bd7a0a104'
-
+console.log("object");
 
 
 
