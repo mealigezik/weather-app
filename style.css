@@ -111,19 +111,8 @@ h1 {
 
 @media screen and (max-width: 475px) {
   .css {
-    /* width: 56vw; */
-    border: 2px solid red;
-    /* border-radius: 3rem; */
-    /* background-color: #000000b8; */
-    /* display: flex; */
-    /* justify-content: center; */
-    /* align-items: center; */
-    /* flex-direction: column; */ */
-    /* position: relative; */
-    /* padding: 2rem; */
-    /* display: flex; */
-    /* justify-content: center; */
-    /* vertical-align: center; */
+    /* min-width: 86vw; */
+    /* border: 2px solid red; */
     position: relative;
     top: 9vh;
   }
