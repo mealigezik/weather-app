@@ -27,7 +27,7 @@ const getResult = (sehirIsmi)=>{
 }
 
 const displayResult = (result)=>{
-    // console.log(resultt)
+    // console.log(resulttt)
 
     let city = document.querySelector('.sehir')
     city.innerText=`${result.name}, ${result.sys.country}`
